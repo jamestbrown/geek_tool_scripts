@@ -5,7 +5,7 @@ pnetstat.sh - a program that will print your Wireless Access Point, Ethernet IP,
 
 get_weather.py - a program that will use your IP to find the city and get weather information about it
 
-To implement these, use the shell script command to run both of these:
+To implement these, use the Shell Geeklet, and use the shell command to run both of these:
 
 ./<path>/pnetstat.sh
 
