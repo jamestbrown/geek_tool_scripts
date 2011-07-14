@@ -1,1 +1,5 @@
 Just a few little geek tool scripts that are on my desktop right now
+
+pnetstat.sh - a program that will print your Wireless Access Point, Ethernet IP, WiFi IP, and External IP
+
+get_weather.py - a program that will use your IP to find the city and get weather information about it
